@@ -1,0 +1,7 @@
+C:\BOT\Cursos\Patrones\Composicion\Composicion\Composicion\obj\Debug\Composicion.csprojAssemblyReference.cache
+C:\BOT\Cursos\Patrones\Composicion\Composicion\Composicion\obj\Debug\Composicion.csproj.CoreCompileInputs.cache
+C:\BOT\Cursos\Patrones\Composicion\Composicion\Composicion\bin\Debug\Composicion.exe.config
+C:\BOT\Cursos\Patrones\Composicion\Composicion\Composicion\bin\Debug\Composicion.exe
+C:\BOT\Cursos\Patrones\Composicion\Composicion\Composicion\bin\Debug\Composicion.pdb
+C:\BOT\Cursos\Patrones\Composicion\Composicion\Composicion\obj\Debug\Composicion.exe
+C:\BOT\Cursos\Patrones\Composicion\Composicion\Composicion\obj\Debug\Composicion.pdb
